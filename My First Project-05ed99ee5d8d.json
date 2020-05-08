@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "leafy-ember-276402",
+  "private_key_id": "05ed99ee5d8de6ec393844de673b81b38a8ac8f1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDmGzEx2KUJOF5w\nSnqnlliBmTLBptE29WNF/ftnFdO3n6MGRkryvXW1DYenB3TN/Tbx+x58XAG+fvy/\nLMliRmwqbKRlSK2Fcb+p1Q83/ecuT3hzSKOzo/oWXyT7sBTGI0Mcw0sdvXviE3HZ\np3J2hdGMnE/R3kS2KdBTRNf4aqPkW0h7uTpkImm3zHimreNIujga15NzSbh2ioIL\nba5z7GMWlWEHbeMSicO9+VDc0iGE9DC+QKu+oM8PbcGWn7AiLYuKtU3QRZhtDffa\n4m1cswkf+FweMyBhG/7MFvx8AI99Y4HQwtni22DfjlvC4y9WTCAnpJrouLj/+ByI\nckXUcTctAgMBAAECggEAAs25Azj3Bc48hFS7+te/m1ChCC/+o5NI0tz916sx6a5V\nv6lSl3OMgBi6muPh3fKkXT1oiS5bzRTiAnhKudpOzhOFy0Af8RzKL4kLhuyeiPdp\n6cmsSO+KCAS/wBtMnX9nfW25uBKLdF01SWgbYmtN+s8av91b6/ZFdgZENWAjQBCA\nvtJyi3UZJjTThqzxCo2EmnqA1eazkXqcqx4ALLTBCoU+l5AhNQPc3oocvRld0ody\nLc7FbCtCKrk2edeBvyZa5evpSz7FFhXcpQeNLKpS1Dxp429CM9fu+MuVegtnKF6s\nrsEQ6R5NkHssz+yWb+Ck9hC0grmwanDCpksfuRhcpwKBgQD2ebIoB4ZSr6W4hWxO\neOXjhEhb/dWsHPxPzgRSWpmpdlcLBTFwNPo+16YlwkIoPNMgBdhK5fH1u5sPolRJ\nVtkZGGn2zCpOedvD7z1d50/GNXmPe0BtDaFKbpEFOXHBB4IPkOBFvatP6vAH+bHu\nV970EQmWMopYBfm+7W23U+svtwKBgQDu/4+wxOtnkLw8hcZmpabBReTgcjxGAAzJ\nVHDM4lzntFmNDbToessHGFg1dJ4a+nUoCvp/pLAGDpycIsmHmwv5z8+Ez9QCV4+V\nlA7LGdtUDI/AV49FKrgoq5Jh0ZWic16fzDqH5z5GPpm+rLDly0O0wencqKbhLOmo\nctrfizyIOwKBgQCsgb50j9eulasqe4+zWKCl3db7M6zSOrNJc8rIjQrRdbc0Sl0w\nyJOBWlO6R70gBnpKBm089rWjpLvBdH8DmZp3GwRHLNxLcrSi7RYJXDUUaCb9imks\nKocB3mL3wh3g2U1pcZ/WkAqP88IuAtBLHgs4zZflHNiBBSWoQOsyjbSk/wKBgQCO\nb3yhaxqopFeq8kcl0b+qHA+lvC8zwL/eFRcM5DNeW9uq9upESzpIxjd71D6N8Yp1\nDOXxwKKvWXH4k7rruHnQrgsNKhc+NhT6njyaypQuaTYa+ZQHMsiCZI5fAdtd78gL\nEFopuKUilBhozN64dQWq6o6H1XNva6btn1XWOFMhFQKBgDG0Aew+bHTajC7yKX84\nmw15wqP5Nw83pV62Eag8fF3jWjuWzAIjeMnB1Sq0vm0XRWOqs3wKqrqBJBW4PTNH\nQkp5L3nkoZV7cqjoZXRvZuMFRw33q78D1hBoqlRek44BpuybaUIXyoQu8OEgqfPR\no03FAIMoIl0LMcVmNccJCts/\n-----END PRIVATE KEY-----\n",
+  "client_email": "foodometer@leafy-ember-276402.iam.gserviceaccount.com",
+  "client_id": "109866825932094083100",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/foodometer%40leafy-ember-276402.iam.gserviceaccount.com"
+}
